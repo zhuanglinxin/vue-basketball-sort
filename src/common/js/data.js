@@ -54,12 +54,5 @@ export default [
     height: 172,
     detail: '有吨位投球也神准',
     avatar: 'yp.jpg'
-  },
-  {
-    name: '老东西',
-    weight: 71,
-    height: 176,
-    detail: '顶级防守球员',
-    avatar: 'jj.jpg'
   }
 ]
